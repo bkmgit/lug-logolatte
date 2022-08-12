@@ -6,3 +6,5 @@ available under the
 
 The font used is [Open Sans](https://www.opensans.com/), a font with an
 open license.
+
+![Possible logo for Nairobi GNU/Linux group](NairobiLUG.svg)
