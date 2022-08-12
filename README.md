@@ -3,7 +3,7 @@ luglogolatte
 
 This is a logo for Nairobi LUG. Some of the stuff below only makes sense in Inkscape.
 
-#teh real GNU latte
+#the real GNU latte
 http://thechive.files.wordpress.com/2013/05/amazing-latte-art-38.jpg
 
 # Steps in recreating the Nairobi LUG
